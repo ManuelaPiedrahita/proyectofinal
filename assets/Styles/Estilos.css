@@ -1,0 +1,17 @@
+.Fondo{
+    background-image: url("../Imagenes/Foto\ uno.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+.Fondo2{
+    background-image: url("../Imagenes/Foto\ dos.webp");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
+.Menu{
+    background-color: aqua;
+}
